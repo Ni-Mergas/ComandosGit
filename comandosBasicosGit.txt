@@ -1,0 +1,16 @@
+- Para ingresar al espacio de trabajo(archivos a subir):
+  cd ~/Documentos... (pegar la ruta)(enter)
+- Para crear por primera vez el espacio en el repositorio:
+  git init (enter)
+- Crear el espacio en memoria local:
+  git add .(enter)
+- Crear el comentario para trazabilidad del código:
+  git commit -m "su comentario aqui" (enter)
+- Dirigirse a la pagina de git hub y crear el nuevo repositorio
+  de ser necesario(cuando es primera vez).
+  new repository y crea el espacio.
+- Conectar con el repositorio git hub 
+ $ git remote add origin https://github.com/Ni-Mergas/EjercicioHtml.git(copiado de la pagina)
+- Subir la rama al Git Hub
+  git push -u origin master (copiado de la página) 
+ 
